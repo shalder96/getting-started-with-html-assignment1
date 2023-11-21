@@ -1,0 +1,46 @@
+
+Comments in HTML are non-displayed text annotations embedded within the HTML code. They are primarily intended for developers and designers to provide explanations, reminders, or instructions within the code. HTML comments do not appear on the webpage itself, but visitors can view them when inspecting the source code.
+
+Purposes of Comments in HTML:
+
+1. Explanatory Notes
+2. Structural Markings
+3. Temporary Code Removal
+4. Reminders and To-Do Notes
+
+
+Example of HTML Comment -
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Comment Example</title>
+</head>
+<body>
+
+    <!-- This is a comment. -->
+    <h1>Welcome to My Website</h1>
+
+    <p>This is a paragraph of text on my webpage.</p>
+
+    <!--
+    <p>This is a commented-out paragraph.
+    It won't be displayed in the browser.
+    </p>
+    -->
+
+</body>
+</html>
+
+In the example above:
+
+The comment <!-- This is a comment. --> is a single-line comment that will not be visible on the webpage.
+
+The paragraph <p>This is a commented-out paragraph...</p> is surrounded by <!-- and -->, which means it's a multi-line comment. Everything between these markers is considered a comment and will not be displayed in the browser.
+
+
+
+
+

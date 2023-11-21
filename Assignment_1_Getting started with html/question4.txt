@@ -1,0 +1,7 @@
+Tag:
+
+A tag is a keyword enclosed in angle brackets (< >) that indicates the start or end of an HTML element. It provides instructions to the browser on how to interpret and render the content within the element. For instance, the <p> tag marks the beginning of a paragraph, while </p> marks its end.
+
+Element: 
+
+An element is made up of an opening tag, content, and a closing tag. The opening tag marks the beginning of an element, and the closing tag marks its end. The content is the information or markup contained between the opening and closing tags.
